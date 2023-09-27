@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.notification-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  border: 1px solid #e5e5e5;
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.icon-img {
+  height: 30px;
+  width: 30px;
+}
